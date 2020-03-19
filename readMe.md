@@ -50,6 +50,10 @@ this file can be used to ensure that have all these versions with command :
 
           pip install -r requirements.txt
           
+From the my github repository root directory missed the pretrained model(frozen_east_text_detection.pb)  
+
+but you can download from https://github.com/oyyd/frozen_east_text_detection.pb
+
 Also I created the batch file(text_recognition_RUN.bat) for my OS(windows 10 pro) to can have idea about
 
 how using the text_recognition.py with python and how install/update the requirement.txt
