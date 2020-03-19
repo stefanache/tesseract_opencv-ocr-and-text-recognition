@@ -52,3 +52,7 @@ Also I created the batch file(text_recognition_RUN.bat) for my OS(windows 10 pro
 
 how using the text_recognition.py with python and how install/update the requirement.txt
 
+To run this batch call from windows cmd.exe and then simply type the command:
+
+        C:\Users\{user}> text_recognition_RUN.bat
+        
