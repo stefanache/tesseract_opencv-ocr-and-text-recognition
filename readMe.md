@@ -58,3 +58,8 @@ To run this batch call from windows cmd.exe and then simply type the command:
 
         C:\Users\{user}> text_recognition_RUN.bat
         
+See also:
+---------
+
+        https://medium.com/@tomhoag/opencv-text-detection-548950e3494c
+        
