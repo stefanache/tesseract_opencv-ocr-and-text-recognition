@@ -61,7 +61,12 @@ how using the text_recognition.py with python and how install/update the require
 To run this batch call from windows cmd.exe and then simply type the command:
 
         C:\Users\{user}> text_recognition_RUN.bat
-        
+ 
+ In fact you can fian entire project at https://github.com/efviodo/opencv-text-recognition
+ 
+ My repository contain in plus this batch which contain some calls for this tutorial
+ 
+ 
 See also:
 ---------
 
