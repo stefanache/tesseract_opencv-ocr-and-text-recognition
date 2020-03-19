@@ -1,5 +1,12 @@
 Hi,
 
+In my manual-procedure : https://github.com/stefanache/using-tesseract-ocr-python
+
+seen that can create one pipeline with scope to detect the text from images with good accurance.
+
+So in this procedure will discuss about even of "Using OpenCV's EAST for text-recognition(OCR) with tesseract"  
+
+
 Ref from 
 --------
 
