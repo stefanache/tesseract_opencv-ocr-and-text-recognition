@@ -47,3 +47,7 @@ this file can be used to ensure that have all these versions with command :
 
           pip install -r requirements.txt
           
+Also I created the batch file for my OS(windows 10 pro) to can have idea about
+
+how using the text_recognition.py with python and how install/update the requirement.txt
+
