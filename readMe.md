@@ -62,9 +62,11 @@ To run this batch call from windows cmd.exe and then simply type the command:
 
         C:\Users\{user}> text_recognition_RUN.bat
  
- In fact you can fian entire project at https://github.com/efviodo/opencv-text-recognition
+ In fact you can find and download the entire project at https://github.com/efviodo/opencv-text-recognition
  
- My repository contain in plus this batch which contain some calls for this tutorial
+ My repository contain in plus the above batch file (text_recognition_RUN.bat) which contain some calls for 
+ 
+ this efviodo's tutorial
  
  
 See also:
