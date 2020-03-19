@@ -23,7 +23,9 @@ Ref from
         https://github.com/tamaUdon/Web_OCR_app/tree/master/app
         
         and can use google search for others with this phrase: 
-              github adrian rosebrock ocr Tesseract 
+              "github adrian rosebrock ocr Tesseract"
+        or with phrase wich include specific file :
+              "frozen_east_text_detection.pb"
 Remember:
 ---------
 
