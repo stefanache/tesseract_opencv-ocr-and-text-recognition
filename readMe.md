@@ -24,7 +24,7 @@ Ref from
         
         and can use google search for others with this phrase: 
               "github adrian rosebrock ocr Tesseract"
-        or with phrase wich include specific file :
+        or with phrase wich include specific file which contain the pretrained model:
               "frozen_east_text_detection.pb"
 Remember:
 ---------
@@ -62,4 +62,4 @@ See also:
 ---------
 
         https://medium.com/@tomhoag/opencv-text-detection-548950e3494c
-        
+        https://books.google.ro/books?id=hbSeDwAAQBAJ&pg=PA203&lpg=PA203&dq=frozen_east_text_detection.pb&source=bl&ots=WUw_6b5vdi&sig=ACfU3U1ycRwdcrbLBTiyrOD-r-1gmdCK0w&hl=ro&sa=X&ved=2ahUKEwjikeGT46boAhU2aRUIHe8ZA84Q6AEwB3oECAoQAQ#v=onepage&q=frozen_east_text_detection.pb&f=false
