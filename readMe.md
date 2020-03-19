@@ -8,7 +8,8 @@ So in this procedure will discuss about even of "Using OpenCV's EAST for text-re
 
 Remember that :
 
-        This EAST method will be part of thhis pipeline:
+        This EAST method(https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/)
+        will be part of this pipeline:
 
         Input image -> OpenCV's EAST(Text Detector) -> Extract Text ROIs -> Tesseract v.4 OCR with LSTM(text recognizer) -> OpenCV+Tesseract OCR Results
 
@@ -16,7 +17,6 @@ Ref from
 --------
 
         https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
-        https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
         https://github.com/efviodo/opencv-text-recognition
         
         exist and web opencv OCR: 
