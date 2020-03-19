@@ -2,7 +2,12 @@ Hi,
 
 Ref by  https://www.pyimagesearch.com/2018/09/17/opencv-ocr-and-text-recognition-with-tesseract/
         https://github.com/efviodo/opencv-text-recognition
-
+        
+        exist and web opencv OCR: 
+        https://github.com/tamaUdon/Web_OCR_app/tree/master/app
+        
+        and can use google search for others with this phrase: 
+              github adrian rosebrock ocr Tesseract 
 Remember:
 ---------
 
